@@ -1,0 +1,12 @@
+name: ms_6_shiny
+title: ms_6_shiny
+username:
+account: emichaels
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2046735
+bundleId: 2961704
+url: https://emichaels.shinyapps.io/ms_6_shiny/
+when: 1585866819.57412
+asMultiple: FALSE
+asStatic: FALSE
